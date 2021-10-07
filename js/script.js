@@ -6,4 +6,4 @@ const promptCognome = prompt("Qual'è il tuo cognome?");
 const promptColorePreferito = prompt("Qual'è il tuo colore preferito?");
 
 //Saluto l'utente con nome e cognome 
-alert (promptNome + promptCognome + promptColorePreferito + 21);
+alert (promptNome + promptCognome + promptColorePreferito + "21");
